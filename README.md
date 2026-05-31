@@ -4,7 +4,7 @@ A local research dashboard that ingests AFAD earthquake catalog data, trains a T
 
 ## What it does
 
-- Loads and stores AFAD earthquake catalog data locally
+- Loads and stores earthquake catalog data locally
 - Trains a GRU-based multi-head model on recent earthquake sequences
 - Tracks region, location, wait-time, magnitude, depth, and large-event signals
 - Shows a live dashboard for model state, recent comparisons, and forecast summaries
