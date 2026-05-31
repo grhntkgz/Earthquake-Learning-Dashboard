@@ -1,4 +1,4 @@
-# AFAD Earthquake Learning Dashboard
+# Earthquake Learning Dashboard
 
 A local research dashboard that ingests AFAD earthquake catalog data, trains a TensorFlow.js sequence model, and updates earthquake forecast signals over time.
 
